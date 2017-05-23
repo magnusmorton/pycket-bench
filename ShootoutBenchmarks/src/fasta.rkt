@@ -132,30 +132,3 @@
   (void))
 
 (time-run generate)
-#lang racket/base
-(require "time-run.rktl")
-(provide generate) ;for gen-inputs
-;; The Computer Language Benchmarks Game
-;; http://shootout.alioth.debian.org/
-;;
-;; fasta - benchmark
-;;
-;; Very loosely based on the Chicken variant by Anthony Borla, some
-;; optimizations taken from the GCC version by Petr Prokhorenkov, and
-;; additional heavy optimizations by Eli Barzilay (not really related to
-;; the above two now).
-;;
-;; If you use some of these optimizations in other solutions, please
-;; include a proper attribution to this Racket code.
-
-(define +alu+
-  (bytes-append #"GGCCGGGCGCGGTGGCTCACGCCTGTAATCCCAGCACTTTGG"
-                #"GAGGCCGAGGCGGGCGGATCACCTGAGGTCAGGAGTTCGAGA"
-                #"CCAGCCTGGCCAACATGGTGAAACCCCGTCTCTACTAAAAAT"
-                #"ACAAAAATTAGCCGGGCGTGGTGGCGCGCGCCTGTAATCCCA"
-                #"GCTACTCGGGAGGCTGAGGCAGGAGAATCGCTTGAACCCGGG"
-                #"AGGCGGAGGTTGCAGTGAGCCGAGATCGCGCCACTGCACTCC"
-                #"AGCCTGGGCGACAGAGCGAGACTCCGTCTCAAAAA"))
-
-(define IUB
-  '([# 0.27] [#
