@@ -1,0 +1,921 @@
+RPython traceback:
+  File "pycket_entry_point.c", line 47, in entry_point
+  File "pycket_entry_point.c", line 1042, in actual_entry
+  File "pycket_expand.c", line 97, in JsonLoader_load_json_ast_rpython
+  File "pycket_pycket_json.c", line 193, in loads
+  File "pypy_module__pypyjson.c", line 295, in JSONDecoder_decode_any
+  File "pycket_pycket_json.c", line 2288, in _raise__No_JSON_object_could_be_decoded__unexpec
+Fatal RPython error: ValueError
+cmds.sh: line 1:  7202 Aborted                 (core dumped) pycket-c src/meteor.rkt 200000
+RPython traceback:
+  File "pycket_entry_point.c", line 47, in entry_point
+  File "pycket_entry_point.c", line 1042, in actual_entry
+  File "pycket_expand.c", line 97, in JsonLoader_load_json_ast_rpython
+  File "pycket_pycket_json.c", line 193, in loads
+  File "pypy_module__pypyjson.c", line 295, in JSONDecoder_decode_any
+  File "pycket_pycket_json.c", line 2288, in _raise__No_JSON_object_could_be_decoded__unexpec
+Fatal RPython error: ValueError
+cmds.sh: line 2:  7204 Aborted                 (core dumped) pycket-c src/meteor.rkt 200000
+RPython traceback:
+  File "pycket_entry_point.c", line 47, in entry_point
+  File "pycket_entry_point.c", line 1042, in actual_entry
+  File "pycket_expand.c", line 97, in JsonLoader_load_json_ast_rpython
+  File "pycket_pycket_json.c", line 193, in loads
+  File "pypy_module__pypyjson.c", line 295, in JSONDecoder_decode_any
+  File "pycket_pycket_json.c", line 2288, in _raise__No_JSON_object_could_be_decoded__unexpec
+Fatal RPython error: ValueError
+cmds.sh: line 3:  7206 Aborted                 (core dumped) pycket-c src/meteor.rkt 200000
+RPython traceback:
+  File "pycket_entry_point.c", line 47, in entry_point
+  File "pycket_entry_point.c", line 1042, in actual_entry
+  File "pycket_expand.c", line 97, in JsonLoader_load_json_ast_rpython
+  File "pycket_pycket_json.c", line 193, in loads
+  File "pypy_module__pypyjson.c", line 295, in JSONDecoder_decode_any
+  File "pycket_pycket_json.c", line 2288, in _raise__No_JSON_object_could_be_decoded__unexpec
+Fatal RPython error: ValueError
+cmds.sh: line 4:  7208 Aborted                 (core dumped) pycket-c src/sumcol.rkt sumcol-20000
+RPython traceback:
+  File "pycket_entry_point.c", line 47, in entry_point
+  File "pycket_entry_point.c", line 1042, in actual_entry
+  File "pycket_expand.c", line 97, in JsonLoader_load_json_ast_rpython
+  File "pycket_pycket_json.c", line 193, in loads
+  File "pypy_module__pypyjson.c", line 295, in JSONDecoder_decode_any
+  File "pycket_pycket_json.c", line 2288, in _raise__No_JSON_object_could_be_decoded__unexpec
+Fatal RPython error: ValueError
+cmds.sh: line 5:  7210 Aborted                 (core dumped) pycket-c src/sumcol.rkt sumcol-20000
+RPython traceback:
+  File "pycket_entry_point.c", line 47, in entry_point
+  File "pycket_entry_point.c", line 1042, in actual_entry
+  File "pycket_expand.c", line 97, in JsonLoader_load_json_ast_rpython
+  File "pycket_pycket_json.c", line 193, in loads
+  File "pypy_module__pypyjson.c", line 295, in JSONDecoder_decode_any
+  File "pycket_pycket_json.c", line 2288, in _raise__No_JSON_object_could_be_decoded__unexpec
+Fatal RPython error: ValueError
+cmds.sh: line 6:  7212 Aborted                 (core dumped) pycket-c src/sumcol.rkt sumcol-20000
+RPython traceback:
+  File "pycket_entry_point.c", line 47, in entry_point
+  File "pycket_entry_point.c", line 1042, in actual_entry
+  File "pycket_expand.c", line 97, in JsonLoader_load_json_ast_rpython
+  File "pycket_pycket_json.c", line 193, in loads
+  File "pypy_module__pypyjson.c", line 295, in JSONDecoder_decode_any
+  File "pycket_pycket_json.c", line 2288, in _raise__No_JSON_object_could_be_decoded__unexpec
+Fatal RPython error: ValueError
+cmds.sh: line 7:  7214 Aborted                 (core dumped) pycket-c src/nbody-vec.rkt 15000000
+RPython traceback:
+  File "pycket_entry_point.c", line 47, in entry_point
+  File "pycket_entry_point.c", line 1042, in actual_entry
+  File "pycket_expand.c", line 97, in JsonLoader_load_json_ast_rpython
+  File "pycket_pycket_json.c", line 193, in loads
+  File "pypy_module__pypyjson.c", line 295, in JSONDecoder_decode_any
+  File "pycket_pycket_json.c", line 2288, in _raise__No_JSON_object_could_be_decoded__unexpec
+Fatal RPython error: ValueError
+cmds.sh: line 8:  7216 Aborted                 (core dumped) pycket-c src/nbody-vec.rkt 15000000
+RPython traceback:
+  File "pycket_entry_point.c", line 47, in entry_point
+  File "pycket_entry_point.c", line 1042, in actual_entry
+  File "pycket_expand.c", line 97, in JsonLoader_load_json_ast_rpython
+  File "pycket_pycket_json.c", line 193, in loads
+  File "pypy_module__pypyjson.c", line 295, in JSONDecoder_decode_any
+  File "pycket_pycket_json.c", line 2288, in _raise__No_JSON_object_could_be_decoded__unexpec
+Fatal RPython error: ValueError
+cmds.sh: line 9:  7218 Aborted                 (core dumped) pycket-c src/nbody-vec.rkt 15000000
+RPython traceback:
+  File "pycket_entry_point.c", line 47, in entry_point
+  File "pycket_entry_point.c", line 1042, in actual_entry
+  File "pycket_expand.c", line 97, in JsonLoader_load_json_ast_rpython
+  File "pycket_pycket_json.c", line 193, in loads
+  File "pypy_module__pypyjson.c", line 295, in JSONDecoder_decode_any
+  File "pycket_pycket_json.c", line 2288, in _raise__No_JSON_object_could_be_decoded__unexpec
+Fatal RPython error: ValueError
+cmds.sh: line 10:  7220 Aborted                 (core dumped) pycket-c src/binarytrees-generic.rkt 17
+RPython traceback:
+  File "pycket_entry_point.c", line 47, in entry_point
+  File "pycket_entry_point.c", line 1042, in actual_entry
+  File "pycket_expand.c", line 97, in JsonLoader_load_json_ast_rpython
+  File "pycket_pycket_json.c", line 193, in loads
+  File "pypy_module__pypyjson.c", line 295, in JSONDecoder_decode_any
+  File "pycket_pycket_json.c", line 2288, in _raise__No_JSON_object_could_be_decoded__unexpec
+Fatal RPython error: ValueError
+cmds.sh: line 11:  7222 Aborted                 (core dumped) pycket-c src/binarytrees-generic.rkt 17
+RPython traceback:
+  File "pycket_entry_point.c", line 47, in entry_point
+  File "pycket_entry_point.c", line 1042, in actual_entry
+  File "pycket_expand.c", line 97, in JsonLoader_load_json_ast_rpython
+  File "pycket_pycket_json.c", line 193, in loads
+  File "pypy_module__pypyjson.c", line 295, in JSONDecoder_decode_any
+  File "pycket_pycket_json.c", line 2288, in _raise__No_JSON_object_could_be_decoded__unexpec
+Fatal RPython error: ValueError
+cmds.sh: line 12:  7224 Aborted                 (core dumped) pycket-c src/binarytrees-generic.rkt 17
+RPython traceback:
+  File "pycket_entry_point.c", line 47, in entry_point
+  File "pycket_entry_point.c", line 1042, in actual_entry
+  File "pycket_expand.c", line 97, in JsonLoader_load_json_ast_rpython
+  File "pycket_pycket_json.c", line 193, in loads
+  File "pypy_module__pypyjson.c", line 295, in JSONDecoder_decode_any
+  File "pycket_pycket_json.c", line 2288, in _raise__No_JSON_object_could_be_decoded__unexpec
+Fatal RPython error: ValueError
+cmds.sh: line 13:  7226 Aborted                 (core dumped) pycket-c src/nbody.rkt 8000000
+RPython traceback:
+  File "pycket_entry_point.c", line 47, in entry_point
+  File "pycket_entry_point.c", line 1042, in actual_entry
+  File "pycket_expand.c", line 97, in JsonLoader_load_json_ast_rpython
+  File "pycket_pycket_json.c", line 193, in loads
+  File "pypy_module__pypyjson.c", line 295, in JSONDecoder_decode_any
+  File "pycket_pycket_json.c", line 2288, in _raise__No_JSON_object_could_be_decoded__unexpec
+Fatal RPython error: ValueError
+cmds.sh: line 14:  7228 Aborted                 (core dumped) pycket-c src/nbody.rkt 8000000
+RPython traceback:
+  File "pycket_entry_point.c", line 47, in entry_point
+  File "pycket_entry_point.c", line 1042, in actual_entry
+  File "pycket_expand.c", line 97, in JsonLoader_load_json_ast_rpython
+  File "pycket_pycket_json.c", line 193, in loads
+  File "pypy_module__pypyjson.c", line 295, in JSONDecoder_decode_any
+  File "pycket_pycket_json.c", line 2288, in _raise__No_JSON_object_could_be_decoded__unexpec
+Fatal RPython error: ValueError
+cmds.sh: line 15:  7230 Aborted                 (core dumped) pycket-c src/nbody.rkt 8000000
+RPython traceback:
+  File "pycket_entry_point.c", line 47, in entry_point
+  File "pycket_entry_point.c", line 1042, in actual_entry
+  File "pycket_expand.c", line 97, in JsonLoader_load_json_ast_rpython
+  File "pycket_pycket_json.c", line 193, in loads
+  File "pypy_module__pypyjson.c", line 295, in JSONDecoder_decode_any
+  File "pycket_pycket_json.c", line 2288, in _raise__No_JSON_object_could_be_decoded__unexpec
+Fatal RPython error: ValueError
+cmds.sh: line 16:  7232 Aborted                 (core dumped) pycket-c src/hash.rkt 4000000
+RPython traceback:
+  File "pycket_entry_point.c", line 47, in entry_point
+  File "pycket_entry_point.c", line 1042, in actual_entry
+  File "pycket_expand.c", line 97, in JsonLoader_load_json_ast_rpython
+  File "pycket_pycket_json.c", line 193, in loads
+  File "pypy_module__pypyjson.c", line 295, in JSONDecoder_decode_any
+  File "pycket_pycket_json.c", line 2288, in _raise__No_JSON_object_could_be_decoded__unexpec
+Fatal RPython error: ValueError
+cmds.sh: line 17:  7234 Aborted                 (core dumped) pycket-c src/hash.rkt 4000000
+RPython traceback:
+  File "pycket_entry_point.c", line 47, in entry_point
+  File "pycket_entry_point.c", line 1042, in actual_entry
+  File "pycket_expand.c", line 97, in JsonLoader_load_json_ast_rpython
+  File "pycket_pycket_json.c", line 193, in loads
+  File "pypy_module__pypyjson.c", line 295, in JSONDecoder_decode_any
+  File "pycket_pycket_json.c", line 2288, in _raise__No_JSON_object_could_be_decoded__unexpec
+Fatal RPython error: ValueError
+cmds.sh: line 18:  7236 Aborted                 (core dumped) pycket-c src/hash.rkt 4000000
+RPython traceback:
+  File "pycket_entry_point.c", line 47, in entry_point
+  File "pycket_entry_point.c", line 1042, in actual_entry
+  File "pycket_expand.c", line 97, in JsonLoader_load_json_ast_rpython
+  File "pycket_pycket_json.c", line 193, in loads
+  File "pypy_module__pypyjson.c", line 295, in JSONDecoder_decode_any
+  File "pycket_pycket_json.c", line 2288, in _raise__No_JSON_object_could_be_decoded__unexpec
+Fatal RPython error: ValueError
+cmds.sh: line 19:  7238 Aborted                 (core dumped) pycket-c src/pidigits.rkt 7000
+RPython traceback:
+  File "pycket_entry_point.c", line 47, in entry_point
+  File "pycket_entry_point.c", line 1042, in actual_entry
+  File "pycket_expand.c", line 97, in JsonLoader_load_json_ast_rpython
+  File "pycket_pycket_json.c", line 193, in loads
+  File "pypy_module__pypyjson.c", line 295, in JSONDecoder_decode_any
+  File "pycket_pycket_json.c", line 2288, in _raise__No_JSON_object_could_be_decoded__unexpec
+Fatal RPython error: ValueError
+cmds.sh: line 20:  7240 Aborted                 (core dumped) pycket-c src/pidigits.rkt 7000
+RPython traceback:
+  File "pycket_entry_point.c", line 47, in entry_point
+  File "pycket_entry_point.c", line 1042, in actual_entry
+  File "pycket_expand.c", line 97, in JsonLoader_load_json_ast_rpython
+  File "pycket_pycket_json.c", line 193, in loads
+  File "pypy_module__pypyjson.c", line 295, in JSONDecoder_decode_any
+  File "pycket_pycket_json.c", line 2288, in _raise__No_JSON_object_could_be_decoded__unexpec
+Fatal RPython error: ValueError
+cmds.sh: line 21:  7242 Aborted                 (core dumped) pycket-c src/pidigits.rkt 7000
+
+
+RESULT-cpu: 1059310.0
+RESULT-gc: 0.0
+RESULT-total: 1059310.0
+eqns: 17595.0,1878566527.0,314279823.0,290307262.0,2558282515.0,1594339595.0
+
+
+RESULT-cpu: 1073664.0
+RESULT-gc: 0.0
+RESULT-total: 1073664.0
+eqns: 17595.0,1878566527.0,314279823.0,290307262.0,2558282515.0,1594339595.0
+
+
+RESULT-cpu: 1056405.0
+RESULT-gc: 0.0
+RESULT-total: 1056405.0
+eqns: 17595.0,1878566527.0,314279823.0,290307262.0,2558282515.0,1594339595.0
+
+
+RESULT-cpu: 5581522.0
+RESULT-gc: 0.0
+RESULT-total: 5581522.0
+eqns: 554998975.0,9449987498.0,2744996139.0,1439997351.0,5024993096.0,4619993659.0
+
+
+RESULT-cpu: 5477139.0
+RESULT-gc: 0.0
+RESULT-total: 5477139.0
+eqns: 554998975.0,9449987498.0,2744996139.0,1439997351.0,5024993096.0,4619993659.0
+
+
+RESULT-cpu: 5478820.0
+RESULT-gc: 0.0
+RESULT-total: 5478820.0
+eqns: 554998975.0,9449987498.0,2744996139.0,1439997351.0,5024993096.0,4619993659.0
+
+
+RESULT-cpu: 2703046.0
+RESULT-gc: 0.0
+RESULT-total: 2703046.0
+eqns: 212952851.0,1026619063.0,199918020.0,415681742.0,1346358381.0,1236886769.0
+
+
+RESULT-cpu: 2709509.0
+RESULT-gc: 0.0
+RESULT-total: 2709509.0
+eqns: 212952851.0,1026619063.0,199918020.0,415681742.0,1346358381.0,1236886769.0
+
+
+RESULT-cpu: 2661789.0
+RESULT-gc: 0.0
+RESULT-total: 2661789.0
+eqns: 212952851.0,1026619063.0,199918020.0,415681742.0,1346358381.0,1236886769.0
+
+
+RESULT-cpu: 4941879.0
+RESULT-gc: 0.0
+RESULT-total: 4941879.0
+eqns: 505237277.0,10037052880.0,792197201.0,1012418909.0,12146039713.0,9563377146.0
+
+
+RESULT-cpu: 4948946.0
+RESULT-gc: 0.0
+RESULT-total: 4948946.0
+eqns: 505237277.0,10037052880.0,792197201.0,1012418909.0,12146039713.0,9563377146.0
+
+
+RESULT-cpu: 4967496.0
+RESULT-gc: 0.0
+RESULT-total: 4967496.0
+eqns: 505237277.0,10037052880.0,792197201.0,1012418909.0,12146039713.0,9563377146.0
+
+
+RESULT-cpu: 5475094.0
+RESULT-gc: 0.0
+RESULT-total: 5475094.0
+eqns: 1466062309.0,2625123407.0,0.0,4500521055.0,11132952025.0,9170149150.0
+
+
+RESULT-cpu: 5533312.0
+RESULT-gc: 0.0
+RESULT-total: 5533312.0
+eqns: 1466062309.0,2625123407.0,0.0,4500521055.0,11132952025.0,9170149150.0
+
+
+RESULT-cpu: 5453804.0
+RESULT-gc: 0.0
+RESULT-total: 5453804.0
+eqns: 1466062309.0,2625123407.0,0.0,4500521055.0,11132952025.0,9170149150.0
+
+
+RESULT-cpu: 3412978.0
+RESULT-gc: 0.0
+RESULT-total: 3412978.0
+eqns: 198122381.0,5039053230.0,3496823865.0,1223043503.0,8469152846.0,5117499356.0
+
+
+RESULT-cpu: 3225581.0
+RESULT-gc: 0.0
+RESULT-total: 3225581.0
+eqns: 198122381.0,5039053230.0,3496823865.0,1223043503.0,8469152846.0,5117499356.0
+
+
+RESULT-cpu: 3223278.0
+RESULT-gc: 0.0
+RESULT-total: 3223278.0
+eqns: 198122381.0,5039053230.0,3496823865.0,1223043503.0,8469152846.0,5117499356.0
+
+
+RESULT-cpu: 1051571.0
+RESULT-gc: 0.0
+RESULT-total: 1051571.0
+eqns: 192117325.0,682483001.0,411463152.0,610450266.0,1174204048.0,1315232152.0
+
+
+RESULT-cpu: 1054508.0
+RESULT-gc: 0.0
+RESULT-total: 1054508.0
+eqns: 192117325.0,682483001.0,411463152.0,610450266.0,1174204048.0,1315232152.0
+
+
+RESULT-cpu: 1051151.0
+RESULT-gc: 0.0
+RESULT-total: 1051151.0
+eqns: 192117325.0,682483001.0,411463152.0,610450266.0,1174204048.0,1315232152.0
+
+
+RESULT-cpu: 4282429.0
+RESULT-gc: 0.0
+RESULT-total: 4282429.0
+eqns: 2850.0,6803404905.0,6800003166.0,9500.0,8506818274.0,5105119776.0
+
+
+RESULT-cpu: 4266057.0
+RESULT-gc: 0.0
+RESULT-total: 4266057.0
+eqns: 2850.0,6803404905.0,6800003166.0,9500.0,8506818274.0,5105119776.0
+
+
+RESULT-cpu: 4188156.0
+RESULT-gc: 0.0
+RESULT-total: 4188156.0
+eqns: 2850.0,6803404905.0,6800003166.0,9500.0,8506818274.0,5105119776.0
+RPython traceback:
+  File "pycket_entry_point.c", line 47, in entry_point
+  File "pycket_entry_point.c", line 1381, in actual_entry
+  File "pycket_interpreter.c", line 80, in interpret_module
+  File "pycket_interpreter.c", line 1161, in Module__interpret_mod
+  File "pycket_interpreter.c", line 17470, in interpret_one
+  File "rpython_jit_metainterp.c", line 2572, in ll_portal_runner__pycket_AST_ASTPtr_pycket_AST_A
+  File "pycket_interpreter.c", line 58311, in portal_1
+  File "pycket_prims_2.c", line 53160, in remove_extra_infofunc_result_handling__star_4_633
+  File "pycket_prims_7.c", line 51938, in open_input_file
+  File "rpython_rlib.c", line 15809, in open_file_as_stream__str
+  File "rpython_rlib.c", line 525, in open__str
+Fatal RPython error: OSError
+cmds.sh: line 46:  7276 Aborted                 (core dumped) pycket-c src/wordfreq.rkt sumcol-20000
+RPython traceback:
+  File "pycket_entry_point.c", line 47, in entry_point
+  File "pycket_entry_point.c", line 1381, in actual_entry
+  File "pycket_interpreter.c", line 80, in interpret_module
+  File "pycket_interpreter.c", line 1161, in Module__interpret_mod
+  File "pycket_interpreter.c", line 17470, in interpret_one
+  File "rpython_jit_metainterp.c", line 2572, in ll_portal_runner__pycket_AST_ASTPtr_pycket_AST_A
+  File "pycket_interpreter.c", line 58311, in portal_1
+  File "pycket_prims_2.c", line 53160, in remove_extra_infofunc_result_handling__star_4_633
+  File "pycket_prims_7.c", line 51938, in open_input_file
+  File "rpython_rlib.c", line 15809, in open_file_as_stream__str
+  File "rpython_rlib.c", line 525, in open__str
+Fatal RPython error: OSError
+cmds.sh: line 47:  7278 Aborted                 (core dumped) pycket-c src/wordfreq.rkt sumcol-20000
+RPython traceback:
+  File "pycket_entry_point.c", line 47, in entry_point
+  File "pycket_entry_point.c", line 1381, in actual_entry
+  File "pycket_interpreter.c", line 80, in interpret_module
+  File "pycket_interpreter.c", line 1161, in Module__interpret_mod
+  File "pycket_interpreter.c", line 17470, in interpret_one
+  File "rpython_jit_metainterp.c", line 2572, in ll_portal_runner__pycket_AST_ASTPtr_pycket_AST_A
+  File "pycket_interpreter.c", line 58311, in portal_1
+  File "pycket_prims_2.c", line 53160, in remove_extra_infofunc_result_handling__star_4_633
+  File "pycket_prims_7.c", line 51938, in open_input_file
+  File "rpython_rlib.c", line 15809, in open_file_as_stream__str
+  File "rpython_rlib.c", line 525, in open__str
+Fatal RPython error: OSError
+cmds.sh: line 48:  7280 Aborted                 (core dumped) pycket-c src/wordfreq.rkt sumcol-20000
+
+
+RESULT-cpu: 4305697.0
+RESULT-gc: 0.0
+RESULT-total: 4305697.0
+eqns: 166969776.0,2002055034.0,0.0,2448897972.0,8230847768.0,6394172374.0
+
+
+RESULT-cpu: 4311935.0
+RESULT-gc: 0.0
+RESULT-total: 4311935.0
+eqns: 166969776.0,2002055034.0,0.0,2448897972.0,8230847768.0,6394172374.0
+
+
+RESULT-cpu: 4305486.0
+RESULT-gc: 0.0
+RESULT-total: 4305486.0
+eqns: 166969776.0,2002055034.0,0.0,2448897972.0,8230847768.0,6394172374.0
+
+
+RESULT-cpu: 3635246.0
+RESULT-gc: 0.0
+RESULT-total: 3635246.0
+eqns: 582058751.0,11284057708.0,175276962.0,1164265464.0,6175566842.0,6368725967.0
+
+
+RESULT-cpu: 3623923.0
+RESULT-gc: 0.0
+RESULT-total: 3623923.0
+eqns: 582058751.0,11284057708.0,175276962.0,1164265464.0,6175566842.0,6368725967.0
+
+
+RESULT-cpu: 3689039.0
+RESULT-gc: 0.0
+RESULT-total: 3689039.0
+eqns: 582058751.0,11284057708.0,175276962.0,1164265464.0,6175566842.0,6368725967.0
+
+
+RESULT-cpu: 1275067.0
+RESULT-gc: 0.0
+RESULT-total: 1275067.0
+eqns: 201105982.0,1019546004.0,345236539.0,632578776.0,1914551963.0,1913988095.0
+
+
+RESULT-cpu: 1258049.0
+RESULT-gc: 0.0
+RESULT-total: 1258049.0
+eqns: 201105982.0,1019546004.0,345236539.0,632578776.0,1914551963.0,1913988095.0
+
+
+RESULT-cpu: 1274537.0
+RESULT-gc: 0.0
+RESULT-total: 1274537.0
+eqns: 201105982.0,1019546004.0,345236539.0,632578776.0,1914551963.0,1913988095.0
+
+
+RESULT-cpu: 4131770.0
+RESULT-gc: 0.0
+RESULT-total: 4131770.0
+eqns: 35850.0,2128693753.0,266058112.0,82754.0,1729618451.0,1197530927.0
+
+
+RESULT-cpu: 4182068.0
+RESULT-gc: 0.0
+RESULT-total: 4182068.0
+eqns: 35850.0,2128693753.0,266058112.0,82754.0,1729618451.0,1197530927.0
+
+
+RESULT-cpu: 4110768.0
+RESULT-gc: 0.0
+RESULT-total: 4110768.0
+eqns: 35850.0,2128693753.0,266058112.0,82754.0,1729618451.0,1197530927.0
+
+
+RESULT-cpu: 1838598.0
+RESULT-gc: 0.0
+RESULT-total: 1838598.0
+RPython traceback:
+  File "pycket_entry_point.c", line 47, in entry_point
+  File "pycket_entry_point.c", line 1381, in actual_entry
+  File "pycket_interpreter.c", line 80, in interpret_module
+  File "pycket_interpreter.c", line 1161, in Module__interpret_mod
+  File "pycket_interpreter.c", line 17470, in interpret_one
+  File "rpython_jit_metainterp.c", line 2572, in ll_portal_runner__pycket_AST_ASTPtr_pycket_AST_A
+  File "pycket_interpreter.c", line 58311, in portal_1
+  File "pycket_prims.c", line 18667, in hash_ref_cont
+Fatal RPython error: SchemeException
+cmds.sh: line 61:  7294 Aborted                 (core dumped) pycket-c src/strcat.rkt 110000000
+
+
+RESULT-cpu: 1841912.0
+RESULT-gc: 0.0
+RESULT-total: 1841912.0
+RPython traceback:
+  File "pycket_entry_point.c", line 47, in entry_point
+  File "pycket_entry_point.c", line 1381, in actual_entry
+  File "pycket_interpreter.c", line 80, in interpret_module
+  File "pycket_interpreter.c", line 1161, in Module__interpret_mod
+  File "pycket_interpreter.c", line 17470, in interpret_one
+  File "rpython_jit_metainterp.c", line 2572, in ll_portal_runner__pycket_AST_ASTPtr_pycket_AST_A
+  File "pycket_interpreter.c", line 58311, in portal_1
+  File "pycket_prims.c", line 18667, in hash_ref_cont
+Fatal RPython error: SchemeException
+cmds.sh: line 62:  7296 Aborted                 (core dumped) pycket-c src/strcat.rkt 110000000
+
+
+RESULT-cpu: 1875826.0
+RESULT-gc: 0.0
+RESULT-total: 1875826.0
+RPython traceback:
+  File "pycket_entry_point.c", line 47, in entry_point
+  File "pycket_entry_point.c", line 1381, in actual_entry
+  File "pycket_interpreter.c", line 80, in interpret_module
+  File "pycket_interpreter.c", line 1161, in Module__interpret_mod
+  File "pycket_interpreter.c", line 17470, in interpret_one
+  File "rpython_jit_metainterp.c", line 2572, in ll_portal_runner__pycket_AST_ASTPtr_pycket_AST_A
+  File "pycket_interpreter.c", line 58311, in portal_1
+  File "pycket_prims.c", line 18667, in hash_ref_cont
+Fatal RPython error: SchemeException
+cmds.sh: line 63:  7298 Aborted                 (core dumped) pycket-c src/strcat.rkt 110000000
+
+
+RESULT-cpu: 1147066.0
+RESULT-gc: 0.0
+RESULT-total: 1147066.0
+eqns: 198285141.0,848889598.0,422260411.0,628975144.0,1452529511.0,1390417235.0
+
+
+RESULT-cpu: 1146418.0
+RESULT-gc: 0.0
+RESULT-total: 1146418.0
+eqns: 198285141.0,848889598.0,422260411.0,628975144.0,1452529511.0,1390417235.0
+
+
+RESULT-cpu: 1123650.0
+RESULT-gc: 0.0
+RESULT-total: 1123650.0
+eqns: 198285141.0,848889598.0,422260411.0,628975144.0,1452529511.0,1390417235.0
+RPython traceback:
+  File "pycket_entry_point.c", line 47, in entry_point
+  File "pycket_entry_point.c", line 1381, in actual_entry
+  File "pycket_interpreter.c", line 80, in interpret_module
+  File "pycket_interpreter.c", line 1161, in Module__interpret_mod
+  File "pycket_interpreter.c", line 17470, in interpret_one
+  File "rpython_jit_metainterp.c", line 2572, in ll_portal_runner__pycket_AST_ASTPtr_pycket_AST_A
+  File "pycket_interpreter.c", line 58311, in portal_1
+  File "pycket_prims_2.c", line 53160, in remove_extra_infofunc_result_handling__star_4_633
+  File "pycket_prims_7.c", line 51938, in open_input_file
+  File "rpython_rlib.c", line 15809, in open_file_as_stream__str
+  File "rpython_rlib.c", line 525, in open__str
+Fatal RPython error: OSError
+cmds.sh: line 67:  7304 Aborted                 (core dumped) pycket-c src/wc.rkt sumcol-20000
+RPython traceback:
+  File "pycket_entry_point.c", line 47, in entry_point
+  File "pycket_entry_point.c", line 1381, in actual_entry
+  File "pycket_interpreter.c", line 80, in interpret_module
+  File "pycket_interpreter.c", line 1161, in Module__interpret_mod
+  File "pycket_interpreter.c", line 17470, in interpret_one
+  File "rpython_jit_metainterp.c", line 2572, in ll_portal_runner__pycket_AST_ASTPtr_pycket_AST_A
+  File "pycket_interpreter.c", line 58311, in portal_1
+  File "pycket_prims_2.c", line 53160, in remove_extra_infofunc_result_handling__star_4_633
+  File "pycket_prims_7.c", line 51938, in open_input_file
+  File "rpython_rlib.c", line 15809, in open_file_as_stream__str
+  File "rpython_rlib.c", line 525, in open__str
+Fatal RPython error: OSError
+cmds.sh: line 68:  7306 Aborted                 (core dumped) pycket-c src/wc.rkt sumcol-20000
+RPython traceback:
+  File "pycket_entry_point.c", line 47, in entry_point
+  File "pycket_entry_point.c", line 1381, in actual_entry
+  File "pycket_interpreter.c", line 80, in interpret_module
+  File "pycket_interpreter.c", line 1161, in Module__interpret_mod
+  File "pycket_interpreter.c", line 17470, in interpret_one
+  File "rpython_jit_metainterp.c", line 2572, in ll_portal_runner__pycket_AST_ASTPtr_pycket_AST_A
+  File "pycket_interpreter.c", line 58311, in portal_1
+  File "pycket_prims_2.c", line 53160, in remove_extra_infofunc_result_handling__star_4_633
+  File "pycket_prims_7.c", line 51938, in open_input_file
+  File "rpython_rlib.c", line 15809, in open_file_as_stream__str
+  File "rpython_rlib.c", line 525, in open__str
+Fatal RPython error: OSError
+cmds.sh: line 69:  7308 Aborted                 (core dumped) pycket-c src/wc.rkt sumcol-20000
+
+
+RESULT-cpu: 6871261.0
+RESULT-gc: 0.0
+RESULT-total: 6871261.0
+eqns: 205849213.0,6356497350.0,944999376.0,771897118.0,9647445754.0,5291647742.0
+
+
+RESULT-cpu: 6839774.0
+RESULT-gc: 0.0
+RESULT-total: 6839774.0
+eqns: 205849213.0,6356497350.0,944999376.0,771897118.0,9647445754.0,5291647742.0
+
+
+RESULT-cpu: 6838941.0
+RESULT-gc: 0.0
+RESULT-total: 6838941.0
+eqns: 205849213.0,6356497350.0,944999376.0,771897118.0,9647445754.0,5291647742.0
+
+
+RESULT-cpu: 4509990.0
+RESULT-gc: 0.0
+RESULT-total: 4509990.0
+RPython traceback:
+  File "pycket_entry_point.c", line 47, in entry_point
+  File "pycket_entry_point.c", line 1381, in actual_entry
+  File "pycket_interpreter.c", line 80, in interpret_module
+  File "pycket_interpreter.c", line 1161, in Module__interpret_mod
+  File "pycket_interpreter.c", line 17470, in interpret_one
+  File "rpython_jit_metainterp.c", line 2572, in ll_portal_runner__pycket_AST_ASTPtr_pycket_AST_A
+  File "pycket_interpreter.c", line 58311, in portal_1
+  File "pycket_prims.c", line 18667, in hash_ref_cont
+Fatal RPython error: SchemeException
+cmds.sh: line 73:  7315 Aborted                 (core dumped) pycket-c src/ackermann.rkt 12
+
+
+RESULT-cpu: 4626354.0
+RESULT-gc: 0.0
+RESULT-total: 4626354.0
+RPython traceback:
+  File "pycket_entry_point.c", line 47, in entry_point
+  File "pycket_entry_point.c", line 1381, in actual_entry
+  File "pycket_interpreter.c", line 80, in interpret_module
+  File "pycket_interpreter.c", line 1161, in Module__interpret_mod
+  File "pycket_interpreter.c", line 17470, in interpret_one
+  File "rpython_jit_metainterp.c", line 2572, in ll_portal_runner__pycket_AST_ASTPtr_pycket_AST_A
+  File "pycket_interpreter.c", line 58311, in portal_1
+  File "pycket_prims.c", line 18667, in hash_ref_cont
+Fatal RPython error: SchemeException
+cmds.sh: line 74:  7317 Aborted                 (core dumped) pycket-c src/ackermann.rkt 12
+
+
+RESULT-cpu: 4519910.0
+RESULT-gc: 0.0
+RESULT-total: 4519910.0
+RPython traceback:
+  File "pycket_entry_point.c", line 47, in entry_point
+  File "pycket_entry_point.c", line 1381, in actual_entry
+  File "pycket_interpreter.c", line 80, in interpret_module
+  File "pycket_interpreter.c", line 1161, in Module__interpret_mod
+  File "pycket_interpreter.c", line 17470, in interpret_one
+  File "rpython_jit_metainterp.c", line 2572, in ll_portal_runner__pycket_AST_ASTPtr_pycket_AST_A
+  File "pycket_interpreter.c", line 58311, in portal_1
+  File "pycket_prims.c", line 18667, in hash_ref_cont
+Fatal RPython error: SchemeException
+cmds.sh: line 75:  7319 Aborted                 (core dumped) pycket-c src/ackermann.rkt 12
+
+
+RESULT-cpu: 2221798.0
+RESULT-gc: 0.0
+RESULT-total: 2221798.0
+eqns: 430618785.0,501159767.0,0.0,1326200657.0,1677404713.0,1725752899.0
+
+
+RESULT-cpu: 2248347.0
+RESULT-gc: 0.0
+RESULT-total: 2248347.0
+eqns: 430618771.0,501159747.0,0.0,1326200611.0,1677404657.0,1725752835.0
+
+
+RESULT-cpu: 2226689.0
+RESULT-gc: 0.0
+RESULT-total: 2226689.0
+eqns: 430618813.0,501159807.0,0.0,1326200749.0,1677404825.0,1725753027.0
+
+
+RESULT-cpu: 4174103.0
+RESULT-gc: 0.0
+RESULT-total: 4174103.0
+eqns: 839286.0,4501573064.0,720250978.0,2997450.0,723250133.0,363967233.0
+
+
+RESULT-cpu: 4175047.0
+RESULT-gc: 0.0
+RESULT-total: 4175047.0
+eqns: 839286.0,4501573064.0,720250978.0,2997450.0,723250133.0,363967233.0
+
+
+RESULT-cpu: 4174018.0
+RESULT-gc: 0.0
+RESULT-total: 4174018.0
+eqns: 839286.0,4501573064.0,720250978.0,2997450.0,723250133.0,363967233.0
+
+
+RESULT-cpu: 3896003.0
+RESULT-gc: 0.0
+RESULT-total: 3896003.0
+eqns: 120037167.0,360007025.0,0.0,120078817.0,1739957773.0,2040052461.0
+
+
+RESULT-cpu: 3713441.0
+RESULT-gc: 0.0
+RESULT-total: 3713441.0
+eqns: 120037167.0,360007025.0,0.0,120078817.0,1739957773.0,2040052461.0
+
+
+RESULT-cpu: 3768789.0
+RESULT-gc: 0.0
+RESULT-total: 3768789.0
+eqns: 120037167.0,360007025.0,0.0,120078817.0,1739957773.0,2040052461.0
+
+
+RESULT-cpu: 21797041.0
+RESULT-gc: 0.0
+RESULT-total: 21797041.0
+eqns: 13946300.0,242627345.0,92325562.0,39600677.0,288609297.0,194457602.0
+
+
+RESULT-cpu: 21614840.0
+RESULT-gc: 0.0
+RESULT-total: 21614840.0
+eqns: 13946300.0,242627345.0,92325562.0,39600677.0,288609297.0,194457602.0
+
+
+RESULT-cpu: 21738040.0
+RESULT-gc: 0.0
+RESULT-total: 21738040.0
+eqns: 13946300.0,242627345.0,92325562.0,39600677.0,288609297.0,194457602.0
+
+
+RESULT-cpu: 12308998.0
+RESULT-gc: 0.0
+RESULT-total: 12308998.0
+eqns: 22334470.0,983378537.0,149958550.0,62536516.0,1570156177.0,836559908.0
+
+
+RESULT-cpu: 12262418.0
+RESULT-gc: 0.0
+RESULT-total: 12262418.0
+eqns: 22334470.0,983378537.0,149958550.0,62536516.0,1570156177.0,836559908.0
+
+
+RESULT-cpu: 12261372.0
+RESULT-gc: 0.0
+RESULT-total: 12261372.0
+eqns: 22334470.0,983378537.0,149958550.0,62536516.0,1570156177.0,836559908.0
+
+
+RESULT-cpu: 2795317.0
+RESULT-gc: 0.0
+RESULT-total: 2795317.0
+eqns: 27053211.0,299929024.0,26238597.0,34401975.0,277573515.0,179547280.0
+
+
+RESULT-cpu: 2775756.0
+RESULT-gc: 0.0
+RESULT-total: 2775756.0
+eqns: 27053211.0,299929024.0,26238597.0,34401975.0,277573515.0,179547280.0
+
+
+RESULT-cpu: 2833213.0
+RESULT-gc: 0.0
+RESULT-total: 2833213.0
+eqns: 27053211.0,299929024.0,26238597.0,34401975.0,277573515.0,179547280.0
+
+
+RESULT-cpu: 913117.0
+RESULT-gc: 0.0
+RESULT-total: 913117.0
+eqns: 26801852.0,2477192862.0,312123086.0,80405440.0,1617972083.0,892295966.0
+
+
+RESULT-cpu: 938958.0
+RESULT-gc: 0.0
+RESULT-total: 938958.0
+eqns: 26801852.0,2477192862.0,312123086.0,80405440.0,1617972083.0,892295966.0
+
+
+RESULT-cpu: 918944.0
+RESULT-gc: 0.0
+RESULT-total: 918944.0
+eqns: 26801852.0,2477192862.0,312123086.0,80405440.0,1617972083.0,892295966.0
+
+
+RESULT-cpu: 1152332.0
+RESULT-gc: 0.0
+RESULT-total: 1152332.0
+eqns: 120080369.0,60065305.0,0.0,460247297.0,580477407.0,660429326.0
+
+
+RESULT-cpu: 1327514.0
+RESULT-gc: 0.0
+RESULT-total: 1327514.0
+eqns: 120080369.0,60065305.0,0.0,460247297.0,580477407.0,660429326.0
+
+
+RESULT-cpu: 1141944.0
+RESULT-gc: 0.0
+RESULT-total: 1141944.0
+eqns: 120080369.0,60065305.0,0.0,460247297.0,580477407.0,660429326.0
+
+
+RESULT-cpu: 2847309.0
+RESULT-gc: 0.0
+RESULT-total: 2847309.0
+eqns: 0.0,1319916069.0,1561.0,0.0,509966908.0,194989638.0
+
+
+RESULT-cpu: 2836380.0
+RESULT-gc: 0.0
+RESULT-total: 2836380.0
+eqns: 0.0,1319916069.0,1561.0,0.0,509966908.0,194989638.0
+
+
+RESULT-cpu: 2831153.0
+RESULT-gc: 0.0
+RESULT-total: 2831153.0
+eqns: 0.0,1319916069.0,1561.0,0.0,509966908.0,194989638.0
+
+
+RESULT-cpu: 1255886.0
+RESULT-gc: 0.0
+RESULT-total: 1255886.0
+eqns: 1685.0,3000018276.0,0.0,250004774.0,750059445.0,250048921.0
+
+
+RESULT-cpu: 1255963.0
+RESULT-gc: 0.0
+RESULT-total: 1255963.0
+eqns: 1685.0,3000018276.0,0.0,250004774.0,750059445.0,250048921.0
+
+
+RESULT-cpu: 1255927.0
+RESULT-gc: 0.0
+RESULT-total: 1255927.0
+eqns: 1685.0,3000018276.0,0.0,250004774.0,750059445.0,250048921.0
+RPython traceback:
+  File "pycket_entry_point.c", line 47, in entry_point
+  File "pycket_entry_point.c", line 1042, in actual_entry
+  File "pycket_expand.c", line 97, in JsonLoader_load_json_ast_rpython
+  File "pycket_pycket_json.c", line 193, in loads
+  File "pypy_module__pypyjson.c", line 295, in JSONDecoder_decode_any
+  File "pycket_pycket_json.c", line 2288, in _raise__No_JSON_object_could_be_decoded__unexpec
+Fatal RPython error: ValueError
+cmds.sh: line 106:  7356 Aborted                 (core dumped) pycket-c src/recursive.rkt 12
+RPython traceback:
+  File "pycket_entry_point.c", line 47, in entry_point
+  File "pycket_entry_point.c", line 1042, in actual_entry
+  File "pycket_expand.c", line 97, in JsonLoader_load_json_ast_rpython
+  File "pycket_pycket_json.c", line 193, in loads
+  File "pypy_module__pypyjson.c", line 295, in JSONDecoder_decode_any
+  File "pycket_pycket_json.c", line 2288, in _raise__No_JSON_object_could_be_decoded__unexpec
+Fatal RPython error: ValueError
+cmds.sh: line 107:  7358 Aborted                 (core dumped) pycket-c src/recursive.rkt 12
+RPython traceback:
+  File "pycket_entry_point.c", line 47, in entry_point
+  File "pycket_entry_point.c", line 1042, in actual_entry
+  File "pycket_expand.c", line 97, in JsonLoader_load_json_ast_rpython
+  File "pycket_pycket_json.c", line 193, in loads
+  File "pypy_module__pypyjson.c", line 295, in JSONDecoder_decode_any
+  File "pycket_pycket_json.c", line 2288, in _raise__No_JSON_object_could_be_decoded__unexpec
+Fatal RPython error: ValueError
+cmds.sh: line 108:  7360 Aborted                 (core dumped) pycket-c src/recursive.rkt 12
+RPython traceback:
+  File "pycket_entry_point.c", line 47, in entry_point
+  File "pycket_entry_point.c", line 1381, in actual_entry
+  File "pycket_interpreter.c", line 80, in interpret_module
+  File "pycket_interpreter.c", line 1161, in Module__interpret_mod
+  File "pycket_interpreter.c", line 17470, in interpret_one
+  File "rpython_jit_metainterp.c", line 8496, in handle_jitexception_1
+  File "pycket_interpreter.c", line 58311, in portal_1
+  File "pycket_prims_7.c", line 37342, in with_input_from_file
+  File "rpython_rlib.c", line 15809, in open_file_as_stream__str
+  File "rpython_rlib.c", line 525, in open__str
+Fatal RPython error: OSError
+cmds.sh: line 109:  7362 Aborted                 (core dumped) pycket-c src/spellcheck.rkt ulysses
+RPython traceback:
+  File "pycket_entry_point.c", line 47, in entry_point
+  File "pycket_entry_point.c", line 1381, in actual_entry
+  File "pycket_interpreter.c", line 80, in interpret_module
+  File "pycket_interpreter.c", line 1161, in Module__interpret_mod
+  File "pycket_interpreter.c", line 17470, in interpret_one
+  File "rpython_jit_metainterp.c", line 8496, in handle_jitexception_1
+  File "pycket_interpreter.c", line 58311, in portal_1
+  File "pycket_prims_7.c", line 37342, in with_input_from_file
+  File "rpython_rlib.c", line 15809, in open_file_as_stream__str
+  File "rpython_rlib.c", line 525, in open__str
+Fatal RPython error: OSError
+cmds.sh: line 110:  7364 Aborted                 (core dumped) pycket-c src/spellcheck.rkt ulysses
+RPython traceback:
+  File "pycket_entry_point.c", line 47, in entry_point
+  File "pycket_entry_point.c", line 1381, in actual_entry
+  File "pycket_interpreter.c", line 80, in interpret_module
+  File "pycket_interpreter.c", line 1161, in Module__interpret_mod
+  File "pycket_interpreter.c", line 17470, in interpret_one
+  File "rpython_jit_metainterp.c", line 8496, in handle_jitexception_1
+  File "pycket_interpreter.c", line 58311, in portal_1
+  File "pycket_prims_7.c", line 37342, in with_input_from_file
+  File "rpython_rlib.c", line 15809, in open_file_as_stream__str
+  File "rpython_rlib.c", line 525, in open__str
+Fatal RPython error: OSError
+cmds.sh: line 111:  7366 Aborted                 (core dumped) pycket-c src/spellcheck.rkt ulysses
+
+
+RESULT-cpu: 21619867.0
+RESULT-gc: 0.0
+RESULT-total: 21619867.0
+eqns: 14197754.0,218814312.0,92325557.0,40103581.0,253002941.0,188126885.0
+
+
+RESULT-cpu: 21174627.0
+RESULT-gc: 0.0
+RESULT-total: 21174627.0
+eqns: 14197754.0,218814312.0,92325557.0,40103581.0,253002941.0,188126885.0
+
+
+RESULT-cpu: 21827831.0
+RESULT-gc: 0.0
+RESULT-total: 21827831.0
+eqns: 14197754.0,218814312.0,92325557.0,40103581.0,253002941.0,188126885.0
+
+
+RESULT-cpu: 3708454.0
+RESULT-gc: 0.0
+RESULT-total: 3708454.0
+eqns: 221917578.0,7037419707.0,31255480.0,593900776.0,3803244489.0,2682924576.0
+
+
+RESULT-cpu: 3606129.0
+RESULT-gc: 0.0
+RESULT-total: 3606129.0
+eqns: 221917578.0,7037419707.0,31255480.0,593900776.0,3803244489.0,2682924576.0
+
+
+RESULT-cpu: 3607446.0
+RESULT-gc: 0.0
+RESULT-total: 3607446.0
+eqns: 221917578.0,7037419707.0,31255480.0,593900776.0,3803244489.0,2682924576.0
+
+
+RESULT-cpu: 3828527.0
+RESULT-gc: 0.0
+RESULT-total: 3828527.0
+eqns: 479997540.0,3767987612.0,0.0,1735991903.0,3719986045.0,6359976225.0
+
+
+RESULT-cpu: 3849698.0
+RESULT-gc: 0.0
+RESULT-total: 3849698.0
+eqns: 479997540.0,3767987612.0,0.0,1735991903.0,3719986045.0,6359976225.0
+
+
+RESULT-cpu: 3886466.0
+RESULT-gc: 0.0
+RESULT-total: 3886466.0
+eqns: 479997540.0,3767987612.0,0.0,1735991903.0,3719986045.0,6359976225.0
