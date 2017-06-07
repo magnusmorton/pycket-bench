@@ -140,48 +140,6 @@ RESULT-cpu: 4188156.0
 RESULT-gc: 0.0
 RESULT-total: 4188156.0
 eqns: 2850.0,6803404905.0,6800003166.0,9500.0,8506818274.0,5105119776.0
-RPython traceback:
-  File "pycket_entry_point.c", line 47, in entry_point
-  File "pycket_entry_point.c", line 1381, in actual_entry
-  File "pycket_interpreter.c", line 80, in interpret_module
-  File "pycket_interpreter.c", line 1161, in Module__interpret_mod
-  File "pycket_interpreter.c", line 17470, in interpret_one
-  File "rpython_jit_metainterp.c", line 2572, in ll_portal_runner__pycket_AST_ASTPtr_pycket_AST_A
-  File "pycket_interpreter.c", line 58311, in portal_1
-  File "pycket_prims_2.c", line 53160, in remove_extra_infofunc_result_handling__star_4_633
-  File "pycket_prims_7.c", line 51938, in open_input_file
-  File "rpython_rlib.c", line 15809, in open_file_as_stream__str
-  File "rpython_rlib.c", line 525, in open__str
-Fatal RPython error: OSError
-cmds.sh: line 46:  7276 Aborted                 (core dumped) pycket-c src/wordfreq.rkt sumcol-20000
-RPython traceback:
-  File "pycket_entry_point.c", line 47, in entry_point
-  File "pycket_entry_point.c", line 1381, in actual_entry
-  File "pycket_interpreter.c", line 80, in interpret_module
-  File "pycket_interpreter.c", line 1161, in Module__interpret_mod
-  File "pycket_interpreter.c", line 17470, in interpret_one
-  File "rpython_jit_metainterp.c", line 2572, in ll_portal_runner__pycket_AST_ASTPtr_pycket_AST_A
-  File "pycket_interpreter.c", line 58311, in portal_1
-  File "pycket_prims_2.c", line 53160, in remove_extra_infofunc_result_handling__star_4_633
-  File "pycket_prims_7.c", line 51938, in open_input_file
-  File "rpython_rlib.c", line 15809, in open_file_as_stream__str
-  File "rpython_rlib.c", line 525, in open__str
-Fatal RPython error: OSError
-cmds.sh: line 47:  7278 Aborted                 (core dumped) pycket-c src/wordfreq.rkt sumcol-20000
-RPython traceback:
-  File "pycket_entry_point.c", line 47, in entry_point
-  File "pycket_entry_point.c", line 1381, in actual_entry
-  File "pycket_interpreter.c", line 80, in interpret_module
-  File "pycket_interpreter.c", line 1161, in Module__interpret_mod
-  File "pycket_interpreter.c", line 17470, in interpret_one
-  File "rpython_jit_metainterp.c", line 2572, in ll_portal_runner__pycket_AST_ASTPtr_pycket_AST_A
-  File "pycket_interpreter.c", line 58311, in portal_1
-  File "pycket_prims_2.c", line 53160, in remove_extra_infofunc_result_handling__star_4_633
-  File "pycket_prims_7.c", line 51938, in open_input_file
-  File "rpython_rlib.c", line 15809, in open_file_as_stream__str
-  File "rpython_rlib.c", line 525, in open__str
-Fatal RPython error: OSError
-cmds.sh: line 48:  7280 Aborted                 (core dumped) pycket-c src/wordfreq.rkt sumcol-20000
 
 
 RESULT-cpu: 4305697.0
@@ -256,52 +214,8 @@ RESULT-total: 4110768.0
 eqns: 35850.0,2128693753.0,266058112.0,82754.0,1729618451.0,1197530927.0
 
 
-RESULT-cpu: 1838598.0
-RESULT-gc: 0.0
-RESULT-total: 1838598.0
-RPython traceback:
-  File "pycket_entry_point.c", line 47, in entry_point
-  File "pycket_entry_point.c", line 1381, in actual_entry
-  File "pycket_interpreter.c", line 80, in interpret_module
-  File "pycket_interpreter.c", line 1161, in Module__interpret_mod
-  File "pycket_interpreter.c", line 17470, in interpret_one
-  File "rpython_jit_metainterp.c", line 2572, in ll_portal_runner__pycket_AST_ASTPtr_pycket_AST_A
-  File "pycket_interpreter.c", line 58311, in portal_1
-  File "pycket_prims.c", line 18667, in hash_ref_cont
-Fatal RPython error: SchemeException
-cmds.sh: line 61:  7294 Aborted                 (core dumped) pycket-c src/strcat.rkt 110000000
 
 
-RESULT-cpu: 1841912.0
-RESULT-gc: 0.0
-RESULT-total: 1841912.0
-RPython traceback:
-  File "pycket_entry_point.c", line 47, in entry_point
-  File "pycket_entry_point.c", line 1381, in actual_entry
-  File "pycket_interpreter.c", line 80, in interpret_module
-  File "pycket_interpreter.c", line 1161, in Module__interpret_mod
-  File "pycket_interpreter.c", line 17470, in interpret_one
-  File "rpython_jit_metainterp.c", line 2572, in ll_portal_runner__pycket_AST_ASTPtr_pycket_AST_A
-  File "pycket_interpreter.c", line 58311, in portal_1
-  File "pycket_prims.c", line 18667, in hash_ref_cont
-Fatal RPython error: SchemeException
-cmds.sh: line 62:  7296 Aborted                 (core dumped) pycket-c src/strcat.rkt 110000000
-
-
-RESULT-cpu: 1875826.0
-RESULT-gc: 0.0
-RESULT-total: 1875826.0
-RPython traceback:
-  File "pycket_entry_point.c", line 47, in entry_point
-  File "pycket_entry_point.c", line 1381, in actual_entry
-  File "pycket_interpreter.c", line 80, in interpret_module
-  File "pycket_interpreter.c", line 1161, in Module__interpret_mod
-  File "pycket_interpreter.c", line 17470, in interpret_one
-  File "rpython_jit_metainterp.c", line 2572, in ll_portal_runner__pycket_AST_ASTPtr_pycket_AST_A
-  File "pycket_interpreter.c", line 58311, in portal_1
-  File "pycket_prims.c", line 18667, in hash_ref_cont
-Fatal RPython error: SchemeException
-cmds.sh: line 63:  7298 Aborted                 (core dumped) pycket-c src/strcat.rkt 110000000
 
 
 RESULT-cpu: 1147066.0
@@ -320,48 +234,6 @@ RESULT-cpu: 1123650.0
 RESULT-gc: 0.0
 RESULT-total: 1123650.0
 eqns: 198285141.0,848889598.0,422260411.0,628975144.0,1452529511.0,1390417235.0
-RPython traceback:
-  File "pycket_entry_point.c", line 47, in entry_point
-  File "pycket_entry_point.c", line 1381, in actual_entry
-  File "pycket_interpreter.c", line 80, in interpret_module
-  File "pycket_interpreter.c", line 1161, in Module__interpret_mod
-  File "pycket_interpreter.c", line 17470, in interpret_one
-  File "rpython_jit_metainterp.c", line 2572, in ll_portal_runner__pycket_AST_ASTPtr_pycket_AST_A
-  File "pycket_interpreter.c", line 58311, in portal_1
-  File "pycket_prims_2.c", line 53160, in remove_extra_infofunc_result_handling__star_4_633
-  File "pycket_prims_7.c", line 51938, in open_input_file
-  File "rpython_rlib.c", line 15809, in open_file_as_stream__str
-  File "rpython_rlib.c", line 525, in open__str
-Fatal RPython error: OSError
-cmds.sh: line 67:  7304 Aborted                 (core dumped) pycket-c src/wc.rkt sumcol-20000
-RPython traceback:
-  File "pycket_entry_point.c", line 47, in entry_point
-  File "pycket_entry_point.c", line 1381, in actual_entry
-  File "pycket_interpreter.c", line 80, in interpret_module
-  File "pycket_interpreter.c", line 1161, in Module__interpret_mod
-  File "pycket_interpreter.c", line 17470, in interpret_one
-  File "rpython_jit_metainterp.c", line 2572, in ll_portal_runner__pycket_AST_ASTPtr_pycket_AST_A
-  File "pycket_interpreter.c", line 58311, in portal_1
-  File "pycket_prims_2.c", line 53160, in remove_extra_infofunc_result_handling__star_4_633
-  File "pycket_prims_7.c", line 51938, in open_input_file
-  File "rpython_rlib.c", line 15809, in open_file_as_stream__str
-  File "rpython_rlib.c", line 525, in open__str
-Fatal RPython error: OSError
-cmds.sh: line 68:  7306 Aborted                 (core dumped) pycket-c src/wc.rkt sumcol-20000
-RPython traceback:
-  File "pycket_entry_point.c", line 47, in entry_point
-  File "pycket_entry_point.c", line 1381, in actual_entry
-  File "pycket_interpreter.c", line 80, in interpret_module
-  File "pycket_interpreter.c", line 1161, in Module__interpret_mod
-  File "pycket_interpreter.c", line 17470, in interpret_one
-  File "rpython_jit_metainterp.c", line 2572, in ll_portal_runner__pycket_AST_ASTPtr_pycket_AST_A
-  File "pycket_interpreter.c", line 58311, in portal_1
-  File "pycket_prims_2.c", line 53160, in remove_extra_infofunc_result_handling__star_4_633
-  File "pycket_prims_7.c", line 51938, in open_input_file
-  File "rpython_rlib.c", line 15809, in open_file_as_stream__str
-  File "rpython_rlib.c", line 525, in open__str
-Fatal RPython error: OSError
-cmds.sh: line 69:  7308 Aborted                 (core dumped) pycket-c src/wc.rkt sumcol-20000
 
 
 RESULT-cpu: 6871261.0
@@ -382,52 +254,6 @@ RESULT-total: 6838941.0
 eqns: 205849213.0,6356497350.0,944999376.0,771897118.0,9647445754.0,5291647742.0
 
 
-RESULT-cpu: 4509990.0
-RESULT-gc: 0.0
-RESULT-total: 4509990.0
-RPython traceback:
-  File "pycket_entry_point.c", line 47, in entry_point
-  File "pycket_entry_point.c", line 1381, in actual_entry
-  File "pycket_interpreter.c", line 80, in interpret_module
-  File "pycket_interpreter.c", line 1161, in Module__interpret_mod
-  File "pycket_interpreter.c", line 17470, in interpret_one
-  File "rpython_jit_metainterp.c", line 2572, in ll_portal_runner__pycket_AST_ASTPtr_pycket_AST_A
-  File "pycket_interpreter.c", line 58311, in portal_1
-  File "pycket_prims.c", line 18667, in hash_ref_cont
-Fatal RPython error: SchemeException
-cmds.sh: line 73:  7315 Aborted                 (core dumped) pycket-c src/ackermann.rkt 12
-
-
-RESULT-cpu: 4626354.0
-RESULT-gc: 0.0
-RESULT-total: 4626354.0
-RPython traceback:
-  File "pycket_entry_point.c", line 47, in entry_point
-  File "pycket_entry_point.c", line 1381, in actual_entry
-  File "pycket_interpreter.c", line 80, in interpret_module
-  File "pycket_interpreter.c", line 1161, in Module__interpret_mod
-  File "pycket_interpreter.c", line 17470, in interpret_one
-  File "rpython_jit_metainterp.c", line 2572, in ll_portal_runner__pycket_AST_ASTPtr_pycket_AST_A
-  File "pycket_interpreter.c", line 58311, in portal_1
-  File "pycket_prims.c", line 18667, in hash_ref_cont
-Fatal RPython error: SchemeException
-cmds.sh: line 74:  7317 Aborted                 (core dumped) pycket-c src/ackermann.rkt 12
-
-
-RESULT-cpu: 4519910.0
-RESULT-gc: 0.0
-RESULT-total: 4519910.0
-RPython traceback:
-  File "pycket_entry_point.c", line 47, in entry_point
-  File "pycket_entry_point.c", line 1381, in actual_entry
-  File "pycket_interpreter.c", line 80, in interpret_module
-  File "pycket_interpreter.c", line 1161, in Module__interpret_mod
-  File "pycket_interpreter.c", line 17470, in interpret_one
-  File "rpython_jit_metainterp.c", line 2572, in ll_portal_runner__pycket_AST_ASTPtr_pycket_AST_A
-  File "pycket_interpreter.c", line 58311, in portal_1
-  File "pycket_prims.c", line 18667, in hash_ref_cont
-Fatal RPython error: SchemeException
-cmds.sh: line 75:  7319 Aborted                 (core dumped) pycket-c src/ackermann.rkt 12
 
 
 RESULT-cpu: 2221798.0
@@ -608,73 +434,6 @@ RESULT-cpu: 1255927.0
 RESULT-gc: 0.0
 RESULT-total: 1255927.0
 eqns: 1685.0,3000018276.0,0.0,250004774.0,750059445.0,250048921.0
-RPython traceback:
-  File "pycket_entry_point.c", line 47, in entry_point
-  File "pycket_entry_point.c", line 1042, in actual_entry
-  File "pycket_expand.c", line 97, in JsonLoader_load_json_ast_rpython
-  File "pycket_pycket_json.c", line 193, in loads
-  File "pypy_module__pypyjson.c", line 295, in JSONDecoder_decode_any
-  File "pycket_pycket_json.c", line 2288, in _raise__No_JSON_object_could_be_decoded__unexpec
-Fatal RPython error: ValueError
-cmds.sh: line 106:  7356 Aborted                 (core dumped) pycket-c src/recursive.rkt 12
-RPython traceback:
-  File "pycket_entry_point.c", line 47, in entry_point
-  File "pycket_entry_point.c", line 1042, in actual_entry
-  File "pycket_expand.c", line 97, in JsonLoader_load_json_ast_rpython
-  File "pycket_pycket_json.c", line 193, in loads
-  File "pypy_module__pypyjson.c", line 295, in JSONDecoder_decode_any
-  File "pycket_pycket_json.c", line 2288, in _raise__No_JSON_object_could_be_decoded__unexpec
-Fatal RPython error: ValueError
-cmds.sh: line 107:  7358 Aborted                 (core dumped) pycket-c src/recursive.rkt 12
-RPython traceback:
-  File "pycket_entry_point.c", line 47, in entry_point
-  File "pycket_entry_point.c", line 1042, in actual_entry
-  File "pycket_expand.c", line 97, in JsonLoader_load_json_ast_rpython
-  File "pycket_pycket_json.c", line 193, in loads
-  File "pypy_module__pypyjson.c", line 295, in JSONDecoder_decode_any
-  File "pycket_pycket_json.c", line 2288, in _raise__No_JSON_object_could_be_decoded__unexpec
-Fatal RPython error: ValueError
-cmds.sh: line 108:  7360 Aborted                 (core dumped) pycket-c src/recursive.rkt 12
-RPython traceback:
-  File "pycket_entry_point.c", line 47, in entry_point
-  File "pycket_entry_point.c", line 1381, in actual_entry
-  File "pycket_interpreter.c", line 80, in interpret_module
-  File "pycket_interpreter.c", line 1161, in Module__interpret_mod
-  File "pycket_interpreter.c", line 17470, in interpret_one
-  File "rpython_jit_metainterp.c", line 8496, in handle_jitexception_1
-  File "pycket_interpreter.c", line 58311, in portal_1
-  File "pycket_prims_7.c", line 37342, in with_input_from_file
-  File "rpython_rlib.c", line 15809, in open_file_as_stream__str
-  File "rpython_rlib.c", line 525, in open__str
-Fatal RPython error: OSError
-cmds.sh: line 109:  7362 Aborted                 (core dumped) pycket-c src/spellcheck.rkt ulysses
-RPython traceback:
-  File "pycket_entry_point.c", line 47, in entry_point
-  File "pycket_entry_point.c", line 1381, in actual_entry
-  File "pycket_interpreter.c", line 80, in interpret_module
-  File "pycket_interpreter.c", line 1161, in Module__interpret_mod
-  File "pycket_interpreter.c", line 17470, in interpret_one
-  File "rpython_jit_metainterp.c", line 8496, in handle_jitexception_1
-  File "pycket_interpreter.c", line 58311, in portal_1
-  File "pycket_prims_7.c", line 37342, in with_input_from_file
-  File "rpython_rlib.c", line 15809, in open_file_as_stream__str
-  File "rpython_rlib.c", line 525, in open__str
-Fatal RPython error: OSError
-cmds.sh: line 110:  7364 Aborted                 (core dumped) pycket-c src/spellcheck.rkt ulysses
-RPython traceback:
-  File "pycket_entry_point.c", line 47, in entry_point
-  File "pycket_entry_point.c", line 1381, in actual_entry
-  File "pycket_interpreter.c", line 80, in interpret_module
-  File "pycket_interpreter.c", line 1161, in Module__interpret_mod
-  File "pycket_interpreter.c", line 17470, in interpret_one
-  File "rpython_jit_metainterp.c", line 8496, in handle_jitexception_1
-  File "pycket_interpreter.c", line 58311, in portal_1
-  File "pycket_prims_7.c", line 37342, in with_input_from_file
-  File "rpython_rlib.c", line 15809, in open_file_as_stream__str
-  File "rpython_rlib.c", line 525, in open__str
-Fatal RPython error: OSError
-cmds.sh: line 111:  7366 Aborted                 (core dumped) pycket-c src/spellcheck.rkt ulysses
-
 
 RESULT-cpu: 21619867.0
 RESULT-gc: 0.0
