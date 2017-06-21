@@ -214,22 +214,6 @@ RESULT-total: 5065353.0
 eqns: 35850.0,2128693753.0,266058112.0,82754.0,1729618451.0,1197530927.0
 
 
-RESULT-cpu: 2494200.0
-RESULT-gc: 0.0
-RESULT-total: 2494200.0
-RPython traceback:
-  File "pycket_entry_point.c", line 47, in entry_point
-  File "pycket_entry_point.c", line 1381, in actual_entry
-  File "pycket_interpreter.c", line 80, in interpret_module
-  File "pycket_interpreter.c", line 1161, in Module__interpret_mod
-  File "pycket_interpreter.c", line 17470, in interpret_one
-  File "rpython_jit_metainterp.c", line 2572, in ll_portal_runner__pycket_AST_ASTPtr_pycket_AST_A
-  File "pycket_interpreter.c", line 58311, in portal_1
-  File "pycket_prims.c", line 18667, in hash_ref_cont
-Fatal RPython error: SchemeException
-cmds.sh: line 61: 69571 Aborted                 (core dumped) pycket-c src/strcat.rkt 110000000
-
-
 RESULT-cpu: 1307123.0
 RESULT-gc: 0.0
 RESULT-total: 1307123.0
